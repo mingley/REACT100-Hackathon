@@ -1,5 +1,5 @@
 {
-  "name": "san-diego-top-spots-react",
+  "name": "react-hackathon",
   "version": "0.1.0",
   "description": "Base application setup for creating a new react project.",
   "main": "server/index.js",
